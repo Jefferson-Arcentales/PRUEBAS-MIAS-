@@ -1,0 +1,14 @@
+[
+    {
+        "idDocente": "1234",
+        "nombreDocente": "Johan",
+        "carrera": "Software",
+        "asignatura": "Minería de Datos"
+    },
+    {
+        "idDocente": "12",
+        "nombreDocente": "adadada",
+        "carrera": "Software",
+        "asignatura": "Administración de Bases de Datos Distribuidas"
+    }
+]
